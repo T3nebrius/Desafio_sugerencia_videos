@@ -50,7 +50,7 @@ class Reproductor extends Multimedia {
 
 const reproductorMusica = new Reproductor("https://www.youtube.com/embed/5PSNL1qE6VY", "musica");
 const reproductorPelicula = new Reproductor("https://www.youtube.com/embed/crdSO9TuAV4", "peliculas");
-const reproductorSerie = new Reproductor("https://www.youtube.com/embed/-4Se6wdkf48", "series");
+const reproductorSerie = new Reproductor("https://www.youtube.com/embed/h3KrzXd0zlQ", "series");
 
 reproductorMusica.setInicio(30); 
 reproductorPelicula.setInicio(45); 
